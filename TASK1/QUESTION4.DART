@@ -12,4 +12,11 @@ void main()
  
 // Arrow Syntax
 void sub(int x,int y) => print('sub is ${ x - y}');
+void main() 
+  {
+  multiply(2,5);
+}
+ 
+// Arrow Syntax
+void multiply(int x,int y) => print('multiply is ${ x * y}');
 
