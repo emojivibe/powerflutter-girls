@@ -1,10 +1,13 @@
-:::success
 
-:Key: **Overview**
+
+# How to solve a system of equations in python
+
+**Overview**
+
 In this article,we are going to be seeing how to solve a system of equations using numpy.we are going to take a look at numpy.linalg function that deals with basic linear algebra.
 
 Without further ado, lets’s dive in to how you can solve a system of equations in python.
-:::
+
 
 # Introduction
 To solve a system of equations in Python,you can access and use the Numpy. Numpy is a fundamental package in python mainly used for scientific computing. Numpy owes its popularity to its advanced mathematical operations, ease of access and less storage space.
